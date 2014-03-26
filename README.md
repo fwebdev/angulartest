@@ -1,4 +1,4 @@
 angulartest
 ===========
 
-Nur ein kleines Testprojekt
+Nur ein kleines Testprojekt von mir
